@@ -13,3 +13,4 @@
 took 200 first words or 5 short sentences
 **My Note**: 
 Ross using number "47" not "50". Hookable. always give number and how
+Change path at top to: research/linkedin-posts/ross-simmonds-01.md
