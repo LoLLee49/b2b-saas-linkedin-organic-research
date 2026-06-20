@@ -5,12 +5,11 @@
 **Hook**: I turned 1 blog post into 47 pieces of content
 **Format**: Carousel
 **Engagement**: 2.1k likes, 156 comments
-**Key Insight**: 1 konten core → repurpose jadi 5 format beda platform
-**Pattern**: Angka spesifik + framework step + CTA soft
+**Key Insight**: 1 content core → repurpose became 5 different platform format
+**Pattern**: Spesific number + framework step + CTA soft
 **Repurpose Angle**: B2B SaaS hemat budget content
 
 **Full Text**:
-[paste 200 kata pertama dari post Ross. Kalo kepanjangan ambil 2 paragraf awal aja]
-
+took 200 first words or 5 short sentences
 **My Note**: 
-Ross pake angka ganjil "47" bukan "50". Lebih hook. Pattern: selalu kasih angka + cara.
+Ross using number "47" not "50". Hookable. always give number and how
