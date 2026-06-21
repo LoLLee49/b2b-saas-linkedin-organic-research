@@ -2,9 +2,9 @@
 
 **Research Date**: 2026-06-22  
 **Topic**: LinkedIn Organic Content Strategy for B2B SaaS  
-**Total Experts**: 11 (10 required + 1 bonus female voice)
+**Total Experts**: 11 (10 required + 1 bonus)
 
-| Nama | Profil Link | Role/Company | Kenapa Dipilih - Annotation 2 Kalimat | Tgl Ambil |
+| Name | Profile Link | Role/Company | Why Selected - 2 Sentence Annotation | Date Added |
 | --- | --- | --- | --- | --- |
 | Ross Simmonds | https://linkedin.com/in/rosssimmonds | Founder, Foundation Marketing | Pioneer content repurposing system. Turns 1 webinar into 50+ LinkedIn assets. Proves distribution > creation for B2B reach. | 2026-06-22 |
 | April Dunford | https://linkedin.com/in/aprildunford | Author, Obviously Awesome | SaaS positioning authority. Teaches category creation over feature comparison. Positioning = pricing power, not product specs. | 2026-06-22 |
@@ -18,5 +18,5 @@
 | Melissa Perri | https://linkedin.com/in/melissajperri | CEO, Produx Labs | Product strategy + org design leader. Kills "feature factory" mindset. Ties every product decision to business outcomes. | 2026-06-22 |
 | Sam Parr | https://linkedin.com/in/sammpar | Founder, The Hustle | Media + distribution hacking expert. Builds audience before product exists. Reverse-engineers niche media growth mechanics. | 2026-06-22 |
 
-**Kriteria Alex**: Practitioner aktif 2024-2026, bukan akademisi/teori doang.  
-**Bonus Perspective**: Elena Verna + Melissa Perri ditambahkan karena GTM/LinkedIn creator space masih male-dominated. Bawa angle product strategy + AI implementation berbeda dari mainstream growth hack.
+**Selection Criteria per Alex**: Active practitioners 2024-2026, not academics/theorists only. Proven track record in B2B SaaS or built-in-public.  
+**Bonus Perspective**: Elena Verna + Melissa Perri added for gender balance. GTM/LinkedIn creator space is male-dominated. These two bring product strategy + AI implementation angles different from mainstream growth hack content.
