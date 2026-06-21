@@ -12,7 +12,7 @@ The initial decision about which customer you target is not arbitrary — it det
 Text post (framework + mental model / GTM strategy)
 
 **Engagement**:
-100 likes, 40 comments, 4 reposts
+198 likes, 73 comments, 4 reposts
 
 **Key Insight**:
 Early ICP and pricing choices are not tactical decisions — they are structural constraints that define your entire SaaS growth trajectory.
