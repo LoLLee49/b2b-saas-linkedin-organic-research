@@ -8,6 +8,8 @@ Turn LinkedIn content into a repeatable engine:
 
 **Thought → Positioning → Product → Growth → GTM → Distribution → Revenue**
 
+---
+
 # LAYER 1 — MARKET NARRATIVE
 
 ### “How does the market understand us?”
@@ -31,6 +33,8 @@ Question:
 
 > Why should buyers care?
 
+---
+
 # LAYER 2 — CUSTOMER UNDERSTANDING
 
 ### “Who are we actually building for?”
@@ -53,6 +57,7 @@ Question:
 
 > Which customers create leverage?
 
+---
 
 # LAYER 3 — PRODUCT STRATEGY
 
@@ -75,6 +80,8 @@ Question:
 
 > Are we solving the right problem?
 
+---
+
 # LAYER 4 — PRODUCT GROWTH
 
 ### “How does usage become growth?”
@@ -95,6 +102,8 @@ Output:
 Question:
 
 > Why do users stay?
+
+---
 
 # LAYER 5 — SYSTEMS
 
@@ -117,6 +126,7 @@ Question:
 
 > What gets stronger over time?
 
+---
 
 # LAYER 6 — GTM EXECUTION
 
@@ -139,6 +149,8 @@ Question:
 
 > How do ideas spread?
 
+---
+
 # LAYER 7 — PRODUCT STORY
 
 ### “How do we explain value?”
@@ -160,6 +172,8 @@ Question:
 
 > How do people understand product decisions?
 
+---
+
 # LAYER 8 — ORGANIZATIONAL SCALE
 
 ### “How do teams keep working?”
@@ -180,6 +194,8 @@ Question:
 
 > How do teams create outcomes?
 
+---
+
 # LAYER 9 — CATEGORY EXPANSION
 
 ### “How do we become memorable?”
@@ -199,6 +215,7 @@ Question:
 
 > Why us instead of alternatives?
 
+---
 
 # LAYER 10 — DEMAND GENERATION
 
@@ -220,6 +237,8 @@ Question:
 
 > How do buyers arrive already convinced?
 
+---
+
 # LAYER 11 — EXECUTIVE LAYER
 
 ### “How do all systems align?”
@@ -238,6 +257,8 @@ Output:
 Question:
 
 > Can the organization sustain the strategy?
+
+---
 
 # Content Flow (LinkedIn Research)
 
@@ -261,6 +282,8 @@ Demand
 ↓
 Revenue
 
+---
+
 # Your Repository Structure
 
 01_market_narrative
@@ -275,10 +298,10 @@ Revenue
 10_demand_generation
 11_operating_system
 
+---
 
 # One-Line Thesis
 
 The strongest B2B SaaS companies don’t win because one expert is right.
 
 They win because **positioning, product, growth, GTM, distribution, and execution become one connected system.**
-
