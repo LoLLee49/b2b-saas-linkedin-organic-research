@@ -1,6 +1,6 @@
 # Expert Sources - LinkedIn B2B SaaS Organic
 
-| Nama | Profil Link | Role/Company | Kenapa Dipilih | Tgl Ambil |
+| Name | Profil Link | Role/Company | Why I choose | Date |
 | --- | --- | --- | --- | --- |
 | Ross Simmonds | linkedin.com/in/rosssimmonds | Founder, Foundation Marketing | Framework repurpose content | 2026-06-20 |
 | Kevin Indig | linkedin.com/in/kevinindig | ex-Growth, Shopify | SEO + growth system | 2026-06-20 |
@@ -13,4 +13,4 @@
 | Jason Lemkin | linkedin.com/in/jasonmlemkin | CEO, SaaStr | Founder sales | 2026-06-20 |
 | Kyle Poyar | linkedin.com/in/kylepoyar | Partner, OpenView | SaaS metrics | 2026-06-20 |
 
-**Kriteria Alex**: Practitioner aktif 2024-2026, bukan teori doang.
+**Criteria**: Active Practitioner 2024-2026
