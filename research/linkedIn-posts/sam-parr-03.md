@@ -2,14 +2,18 @@
 
 **Date**: 2026-06-19
 **Post Link**: https://www.linkedin.com/posts/parrsam_was-talking-with-a-buddy-today-who-works-activity-7473516513631838210-wHud?utm_source=share&utm_medium=member_desktop&rcm=ACoAABEyAAEBwmLOAncjNrlvwjmuz9rjG849pyg
+
 **Hook**: Was talking with a buddy today who works in start-ups and he moved from SF to Miami during the hype cycle and now move back to SF.
+
 **Format**: Text
 **Engagement**: 53 likes, 43 comments, 1 repost.
+
 **Key Insight**: Hype vs Reality gap. People get hypnotized by "the next big thing" during hype cycles. But reality hits different. Sam isn't really talking about Miami. He's talking about human expectations and how we always overestimate new shiny things.
 **Pattern**: Friend Story + Plot Twist + Open Question"
 Structure:
 Talking with buddy → He moved SF → Miami →SF → Miami was just hype → "what a bummer" → Throw question "why'd it flop?"
 He doesn't give answers. He creates curiosity. That triggers comments. Comments = reach.
+
 **Repurpose Angle**: I see tons of start-ups do this: When the "hire 100 devs in a month" hype hits, they rush to buy expensive ATS tools. 3 months later they're back to spreadsheets + WhatsApp. Why? Because hype promises "automate everything" but reality is "team doesn't know how to use it + data is messy". Hype makes you buy. Reality makes you quit. What's the deal? Why do hiring tools flop so badly for Indo start-ups
 
 **Full Text**:
