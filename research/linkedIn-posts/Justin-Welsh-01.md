@@ -1,4 +1,4 @@
-# Kevin Indig - Post 01
+# Justin Welsh - Post 01
 
 **Date**: 2026-06-18
 **Post Link**:https://www.linkedin.com/feed/update/urn:li:activity:7474086154632568832/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BqcqrQY1bQ4eqX7QUXon%2Bkw%3D%3D
