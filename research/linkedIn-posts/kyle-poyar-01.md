@@ -1,6 +1,6 @@
 # Kyle Poyar - Post 01
 
-**Date**: 2026-06-21 *(estimated from LinkedIn activity context)*
+**Date**: 2026-06-18
 
 **Post Link**:
 https://www.linkedin.com/posts/kyle-poyar_a-4-step-guide-to-build-your-ai-gtm-system-activity-7473001162556964865-qJ8o
@@ -12,7 +12,7 @@ The best GTM teams are no longer running plays — they’re building systems.
 Text post + structured playbook breakdown (AI GTM framework)
 
 **Engagement**:
-Refer to LinkedIn post metrics (likes/comments may vary over time)
+222 likes, 97 comments, 12 reposts
 
 **Key Insight**:
 AI shifts GTM from manual, repeatable “plays” into always-on, agent-driven systems that continuously detect signals, execute workflows, and optimize outcomes.
